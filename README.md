@@ -1,6 +1,6 @@
-# -valentinquoicoubeh-
+# Main Bot JS Discord Bot 
+
+Hi here is my discord.js bot so Java Script bot. This bot is not 100 percent functional and the commands are still under development.
 
 
-This link is made to be able to download the tiktok compilation of @cactuds_val: a little known tiktokeur but with very funny content.
-
-https://drive.google.com/drive/folders/1YLW17ytjSVoj7eJgGZaWhIzKD9xO5-s7?usp=share_link
+early access Beta
